@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Freemans Måleri AB',
+	'bransch'        => 'Målare',
 	'telefon'        => '070-336 71 85',
 	'telefon_tel'    => '+46703367185',
 	'betyg'          => '5',
